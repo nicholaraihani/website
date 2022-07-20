@@ -1,6 +1,6 @@
 ---
 role: Professor of Evolution and Behaviour
-avatar_filename: zacrwbpt.jpeg
+avatar_filename: avatar.jpg
 bio: "Our research tackles a simple question that poses a deep evolutionary
   puzzle: why do individuals invest to help others?"
 interests:
