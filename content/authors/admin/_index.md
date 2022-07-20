@@ -43,5 +43,3 @@ email: ""
 Nichola is PI of the Social Evolution and Behaviour Group at UCL. She is Professor of Evolution & Behaviour, a Royal Society University Research Fellow, Fellow of the Royal Society of Biology and Fellow of the Royal Geographical Society. she is also the author of the popular science book, THE SOCIAL INSTINCT: What Nature Can Teach Us About Working Together.  
 
 Nichola's research explores the mechanisms that underpin cooperation among non-relatives in nature, with a particular focus on the roles of punishment and reputation-based partner choice. She works on a variety of model species, and uses real-world and lab-based methods.
-
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
